@@ -1,0 +1,23 @@
+{
+  "name": "com.cipherduo.unity",
+  "version": "0.0.0",
+  "displayName": "CipherDuo Unity",
+  "description": "CipherDuo's unity-specific C# components\nIt allows you to use CipherDuo's SDK with the Unity Engine.\nYou can develop new unique interactions with this web3 bridge.",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/CipherDuo/C2UNITY",
+  "changelogUrl": "https://github.com/CipherDuo/C2UNITY",
+  "licensesUrl": "https://github.com/CipherDuo/C2UNITY/blob/main/LICENSE",
+  "keywords": [
+    "unity",
+    "cipherduo",
+    "web3"
+  ],
+  "dependencies": {
+  },
+  "author": {
+    "name": "CipherDuo",
+    "email": "info@cipherduo.org",
+    "url": "https://www.cipherduo.org/"
+  },
+  "type": "library"
+}

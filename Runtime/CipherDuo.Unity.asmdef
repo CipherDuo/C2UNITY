@@ -1,0 +1,20 @@
+{
+    "name": "C2UNITY",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1b37cb8642bdeea48aff830478162447",
+        "GUID:2279d19b585d51346aa0e24d774ef162",
+        "GUID:8df2996db552b0548985bd72e2dee464"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "BouncyCastle.Crypto.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
